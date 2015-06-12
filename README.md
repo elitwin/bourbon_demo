@@ -23,7 +23,8 @@ Folder structure:
     |  |__app.sass
     |__index.html
 
-Install bourbon/sass for Ruby:
+### Install bourbon/sass for Ruby
+
     $ gem install sass
     $ gem install bourbon neat bitters
     (not needed for this repo, but for a new project)
